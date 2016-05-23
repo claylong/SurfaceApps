@@ -1,0 +1,15 @@
+C:\Users\Clay\Documents\GitHub\SurfaceApps\JigsawPuzzle\obj\Debug\ScatterPuzzle.exe
+C:\Users\Clay\Documents\GitHub\SurfaceApps\JigsawPuzzle\obj\Debug\ScatterPuzzle.pdb
+C:\Users\Clay\Documents\GitHub\SurfaceApps\JigsawPuzzle\bin\Debug\InstalledAppInfo\appIcon.png
+C:\Users\Clay\Documents\GitHub\SurfaceApps\JigsawPuzzle\bin\Debug\ScatterPuzzle.exe
+C:\Users\Clay\Documents\GitHub\SurfaceApps\JigsawPuzzle\bin\Debug\ScatterPuzzle.pdb
+C:\Users\Clay\Documents\GitHub\SurfaceApps\JigsawPuzzle\obj\Debug\JigsawPuzzle.csprojResolveAssemblyReference.cache
+C:\Users\Clay\Documents\GitHub\SurfaceApps\JigsawPuzzle\obj\Debug\App.baml
+C:\Users\Clay\Documents\GitHub\SurfaceApps\JigsawPuzzle\obj\Debug\Window1.g.cs
+C:\Users\Clay\Documents\GitHub\SurfaceApps\JigsawPuzzle\obj\Debug\App.g.cs
+C:\Users\Clay\Documents\GitHub\SurfaceApps\JigsawPuzzle\obj\Debug\ScatterPuzzle_Content.g.cs
+C:\Users\Clay\Documents\GitHub\SurfaceApps\JigsawPuzzle\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Clay\Documents\GitHub\SurfaceApps\JigsawPuzzle\obj\Debug\ScatterPuzzle_MarkupCompile.cache
+C:\Users\Clay\Documents\GitHub\SurfaceApps\JigsawPuzzle\obj\Debug\ScatterPuzzle_MarkupCompile.lref
+C:\Users\Clay\Documents\GitHub\SurfaceApps\JigsawPuzzle\obj\Debug\Window1.baml
+C:\Users\Clay\Documents\GitHub\SurfaceApps\JigsawPuzzle\obj\Debug\ScatterPuzzle.g.resources
