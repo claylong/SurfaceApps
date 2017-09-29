@@ -13,3 +13,7 @@ C:\Users\Clay\Documents\GitHub\SurfaceApps\JigsawPuzzle\obj\Debug\ScatterPuzzle_
 C:\Users\Clay\Documents\GitHub\SurfaceApps\JigsawPuzzle\obj\Debug\ScatterPuzzle_MarkupCompile.lref
 C:\Users\Clay\Documents\GitHub\SurfaceApps\JigsawPuzzle\obj\Debug\Window1.baml
 C:\Users\Clay\Documents\GitHub\SurfaceApps\JigsawPuzzle\obj\Debug\ScatterPuzzle.g.resources
+C:\Users\Clay\Documents\GitHub\SurfaceApps\JigsawPuzzle\bin\Debug\ScatterPuzzle.exe.manifest
+C:\Users\Clay\Documents\GitHub\SurfaceApps\JigsawPuzzle\bin\Debug\ScatterPuzzle.application
+C:\Users\Clay\Documents\GitHub\SurfaceApps\JigsawPuzzle\obj\Debug\ScatterPuzzle.exe.manifest
+C:\Users\Clay\Documents\GitHub\SurfaceApps\JigsawPuzzle\obj\Debug\ScatterPuzzle.application
