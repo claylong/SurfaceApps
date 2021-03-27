@@ -60,11 +60,26 @@
     <GenerateManifests>true</GenerateManifests>
   </PropertyGroup>
   <PropertyGroup>
-    <SignManifests>true</SignManifests>
+    <SignManifests>false</SignManifests>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Microsoft.Surface" />
-    <Reference Include="Microsoft.Surface.Presentation" />
+    <Reference Include="Microsoft.Surface, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Surface.1.0.0\lib\net4\Microsoft.Surface.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Surface.HidSupport">
+      <HintPath>D:\Shared\Surface\Reference Assemblies\Microsoft.Surface.HidSupport.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Surface.NativeWrappers">
+      <HintPath>D:\Shared\Surface\Reference Assemblies\Microsoft.Surface.NativeWrappers.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Surface.Presentation, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>D:\Shared\Surface\Reference Assemblies\Microsoft.Surface.Presentation.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Surface.Presentation.Generic">
+      <HintPath>D:\Shared\Surface\Reference Assemblies\Microsoft.Surface.Presentation.Generic.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Xaml" />
     <Reference Include="System.Core">
@@ -138,6 +153,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="JigsawPuzzle_TemporaryKey.pfx" />
+    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
